@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Gabriel Gontijo </h1>
+<h3 align="left">I'm a Brazilian studying for a bachelor's degree majoring in Computer Science. My great passions are: </h3>
 
-<!--
-**GGontijo/GGontijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Offensive Security
+- Digital Forensics
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GGontijo&show_icons=true&theme=dark" alt="GGontijo"/> 
+</p>
+
+</p>
+<p align="center">
+<a href="https://t.me/GabrielGontijo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Paulo-JRaitz" height="30" width="20" /></a>
