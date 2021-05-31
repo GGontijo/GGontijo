@@ -3,6 +3,7 @@
 
 - Offensive Security
 - Digital Forensics
+- CTF's
 
 &nbsp;
 
@@ -12,4 +13,4 @@
 
 </p>
 <p align="center">
-<a href="https://t.me/GabrielGontijo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Paulo-JRaitz" height="30" width="20" /></a>
+<a href="https://t.me/GabrielGontijo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="GGontijo" height="30" width="20" /></a>
