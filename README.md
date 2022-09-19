@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Gabriel Gontijo </h1>
-<h3 align="left">I'm a Brazilian studying for a bachelor's degree majoring in Computer Science. My great passions are: </h3>
-
-- Offensive Security
-- Digital Forensics
-- CTF's
+<h3 align="left">I'm a Brazilian Computer Scientist.
 
 &nbsp;
 
