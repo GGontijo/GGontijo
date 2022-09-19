@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gabriel Gontijo </h1>
-<h3 align="left">I'm a Brazilian Computer Scientist.
+<h3 align="center">I'm a Brazilian Computer Scientist.
 
 &nbsp;
 
