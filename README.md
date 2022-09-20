@@ -8,11 +8,8 @@
 ```                                                                  
 <h3 align="center">I'm a Brazilian Computer Scientist.</h3>
 
-<table><tr><td valign="top" width="50%">
 
 💾 Currently working in: [WifiHUB](https://github.com/GGontijo/WiFiHub)
-
-</td><td valign="top" width="50%">
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GGontijo&show_icons=true&theme=dark" alt="GGontijo"/> 
