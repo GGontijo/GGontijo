@@ -11,7 +11,7 @@
 
 
 💾 Currently working in: [WifiHUB](https://github.com/GGontijo/WiFiHub)  
-‍💻 Creating a Hackerspace in Cuiabá [Cuiabá HS](https://cuiaba-hackerspace.github.io/)
+‍💻 Creating a Hackerspace in Cuiabá: [Cuiabá HS](https://cuiaba-hackerspace.github.io/)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GGontijo&show_icons=true&theme=dark" alt="GGontijo"/> 
