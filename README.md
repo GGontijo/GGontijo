@@ -10,7 +10,7 @@
 <h3 align="center">I'm a Brazilian Computer Scientist.</h3>
 
 
-💾 Currently working in: [WifiHUB](https://github.com/GGontijo/WiFiHub)
+💾 Currently working in: [WifiHUB](https://github.com/GGontijo/WiFiHub)  
 ‍💻 Creating a Hackerspace in Cuiabá [Cuiabá HS](https://cuiaba-hackerspace.github.io/)
 
 <p align="center">
