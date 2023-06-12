@@ -7,10 +7,7 @@
  ▒▒▓  ▒ ░░ ▒░ ░░ ▒▓ ░▒▓░░ ░▒ ▒  ░░▓  ░ ▒░▓  ░░▓  ░ ▒░▒░▒░ 
  ░    ▒  ░ ░  ░  ░  ░ ▒░  ░  ▒    ▒ ░  ░ ▒  ░ ▒ ░  ░ ▒ ▒░ 
 ```                                                                  
-<h3 align="center">I'm a Brazilian Computer Scientist.</h3>  
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
+<h3 align="center">I'm a Brazilian Computer Scientist.</h3> 
 
 💾 Currently working in: [WifiHUB](https://github.com/GGontijo/WiFiHub)  
 ‍💻 Creating a Hackerspace in Cuiabá: [Cuiabá HS](https://cuiaba-hackerspace.github.io/)
