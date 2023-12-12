@@ -48,8 +48,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-#
-
-### Get in touch:
+#### Get in touch:
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Gontijo-1c61bd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldercilio/)](https://www.linkedin.com/in/gabrieldercilio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldercilio08@gmail.com)](mailto:gabrieldercilio08@gmail.com)
