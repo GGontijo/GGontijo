@@ -6,8 +6,6 @@
 
 ‍💻 Trying to create a Hackerspace in Cuiabá, to disseminate open source and develop some cool stuff: [Cuiabá HS](https://cuiaba-hackerspace.github.io/)
 
-#
-
 <div>
     <table>
      <h3 align="center">So far, my contribution this year was.. </h3>
