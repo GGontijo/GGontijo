@@ -13,10 +13,10 @@
      <h3 align="center">So far, my contribution this year was.. </h3>
     	<tr>
     		<td>
-    			<img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGontijo&layout=compact&theme=dark&hide_border=true"/>
+    			<img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGontijo&layout=compact&theme=dark&hide_border=true"/>
     		</td>
     		<td>
-    			<img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=GGontijo&show_icons=true&theme=dark&hide_border=true"/>
+    			<img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=GGontijo&show_icons=true&theme=dark&hide_border=true"/>
     		</td>
     	</tr>
     </table>
