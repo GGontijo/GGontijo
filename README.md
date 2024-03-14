@@ -6,16 +6,11 @@
 
 ‍💻 Trying to create a Hackerspace in Cuiabá, to disseminate open source and develop some cool stuff: [Cuiabá HS](https://cuiaba-hackerspace.github.io/)
 
-<div>
-    <table>
-     <h3 align="center">So far, my contribution this year was.. </h3>
-    	<tr>
-    		<td>
-    			<img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=GGontijo&show_icons=true&theme=dark&hide_border=true"/>
-    		</td>
-    	</tr>
-    </table>
+<div style="text-align: center;">
+    <h3>So far, my contribution this year was.. </h3>
+    <img width="470px" src="https://github-readme-stats.vercel.app/api?username=GGontijo&show_icons=true&theme=dark&hide_border=true"/>
 </div>
+
 
 ### I am currently studying and working with these languages/tools/frameworks:
 
