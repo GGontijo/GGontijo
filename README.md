@@ -8,7 +8,7 @@
 
 <div style="text-align: center;">
     <h3>So far, my contribution this year was.. </h3>
-    <img width="470px" src="https://github-readme-stats.vercel.app/api?username=GGontijo&show_icons=true&theme=dark&hide_border=true"/>
+    <img width="470px" src="https://github-readme-stats-9q23.vercel.app/api?username=GGontijo&show_icons=true&theme=dark&hide_border=true"/>
 </div>
 
 
