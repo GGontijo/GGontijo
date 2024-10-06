@@ -2,10 +2,6 @@
 
 <h3 align="left">I'm a Brazilian Computer Scientist. Passionate about technology, programming and innovation.</h3>
 
-💾 Currently mapping urban insecure wifi networks in [WifiHUB](https://github.com/GGontijo/WiFiHub) and trying to organize my financials/investments in [OrganizzeSync](https://github.com/GGontijo/OrganizzeSync)
-
-‍💻 Trying to create a Hackerspace in Cuiabá, to disseminate open source and develop some cool stuff: [Cuiabá HS](https://cuiaba-hackerspace.github.io/)
-
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
         <h3>So far, my contribution this year was.. </h3>
