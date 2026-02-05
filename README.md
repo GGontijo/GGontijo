@@ -2,7 +2,6 @@
 
 <h3 align="left">I'm a Brazilian Computer Scientist. Passionate about technology, programming and innovation.</h3>
 
-not a vibe coder...
 [![wakatime](https://wakatime.com/badge/user/02e3ff18-2d16-4993-9b55-9b9a84842c2f.svg)](https://wakatime.com/@02e3ff18-2d16-4993-9b55-9b9a84842c2f)
 
 <div style="display: flex; justify-content: space-between;">
