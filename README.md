@@ -48,7 +48,7 @@
 
 ### Currently Learning (You probably will see some projects in repos, check it out)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React)
+![React Native](https://camo.githubusercontent.com/78bcf164f53b89bf5bfb4d4fb920e2048de5da4449abe0ada121cc9398261ad7/68747470733a2f2f746563682d6261646765732e76657263656c2e6170702f52656163744e6174697665)
 
 
 #### Get in touch:
